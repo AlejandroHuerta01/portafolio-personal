@@ -274,7 +274,7 @@ body {
 
 .sobre-mi__imagen__avatar {
     max-height: 600px;
-    max-width: 80%; /* Para que no desborde en móviles */
+    max-width: 100%; /* Para que no desborde en móviles */
     height: auto;
 }
 
@@ -578,7 +578,7 @@ body {
     }
 
     .sobre-mi__imagen__avatar {
-        max-width: 100%;
+        max-width: 60%;
         height: auto;
     }
 
