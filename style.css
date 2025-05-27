@@ -99,6 +99,7 @@ body {
 /* Presentación */
 .inicio {
     display: flex;
+    padding: 20px;
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -185,6 +186,7 @@ body {
 /* Quién soy */
 .quien-soy {
     display: flex;
+    padding: 20px;
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -259,6 +261,7 @@ body {
 /* Sobre mi */
 .sobre-mi {
     display: flex;
+    padding: 20px;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
@@ -357,6 +360,7 @@ body {
 /* Portafolio */
 .portafolio {
     display: flex;
+    padding: 20px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
